@@ -1,4 +1,4 @@
-const arr = [1, 2, 3, 4, 5]
+let arr = [1, 2, 3, 4, 5]
 
 const timesTwo = (arr) => arr.map((i) => i * 2)
 
